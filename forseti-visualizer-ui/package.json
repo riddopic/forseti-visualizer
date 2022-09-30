@@ -10,15 +10,15 @@
     "test": "webpack --config test/webpack.test.config.js --display-error-details && cd test && jest bundle.test.js"
   },
   "dependencies": {
-    "d3": "^5.15.1",
+    "d3": "^7.0.0",
     "eslint-utils": "^1.4.3",
     "jquery": "^3.5.0",
-    "npm": "^6.14.8",
+    "npm": "^7.21.0",
     "sweetalert": "^2.1.2",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vue-select": "^3.9.5",
-    "vue-tables-2": "^1.6.25",
+    "vue-tables-2": "^2.2.3",
     "vuetify": "^1.5.24",
     "vuex": "^3.1.3"
   },
